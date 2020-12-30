@@ -1,3 +1,4 @@
 # dotnet-Acme.BookStore
 abp vnext 示例
-[文档尚未完善，实际开发谨慎使用](https://docs.abp.io/zh-Hans/abp/latest/Tutorials/Part-3?UI=MVC&DB=EF)
+[地址](https://github.com/abpframework/abp)
+[todo 英文版文档已完善](https://docs.abp.io/en/abp/latest/Tutorials/Part-1?UI=MVC&DB=EF)
